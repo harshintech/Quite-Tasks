@@ -14,12 +14,13 @@ A distraction-free, minimal task manager built with React.
 - HTML/CSS/JS
 - Deployed on Netlify
 
-]
+
 1. **Install Node.js** (v14 or higher): https://nodejs.org  
 2. **Install dependencies**:
 
    ```bash
    npm install
 
-   #run
+3. **Run Project**:
+   ```bash
    npm run dev
